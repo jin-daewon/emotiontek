@@ -25,3 +25,4 @@
 19:24:09.533 ORIGIN(00111) MotionSnet::DoHoming : after_zero_offset_move: ax(0), cur_pos(9366)
 19:24:09.544 ORIGIN(00009) MotionSnet::DoHoming : after_set_home_zero: ax(0), cur_pos(0)
 19:24:09.544 ORIGIN(00010) MotionSnet::DoHoming : origin_end: ax(0), step_size(3), cur_step(2), evnet(0), cur_pos(0)
+// 기운센 천하장사
